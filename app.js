@@ -3,10 +3,11 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-
+const cors = require("cors")
 
 
 // ----------------------------------------------
+
 
 var indexRouter = require('./routes/index');
 var authenticationRouter = require('./routes/authentication');
@@ -26,6 +27,7 @@ MongoDB.connectToMongoDB()
 
 
 
+app.use(cors());
 var app = express();
 
 // view engine setup
@@ -37,7 +39,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static("static"));  
-
 
 
 // ------------------------------------------

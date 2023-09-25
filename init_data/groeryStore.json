@@ -1,0 +1,218 @@
+[
+    {
+        "id": "100",
+        "name": "The Grocers Supermarket",
+        "type": "In-store shopping",
+        "tags": [
+            "chicken",
+            "coffee",
+            "tea",
+            "drinks",
+            "chocolate"
+        ],
+        "location": "Boulevard Mall Hyderabad, Auto Bahn Rd, Hyderabad, Sindh 71800",
+        "distance": 5000,
+        "time": 30,
+        "images": {
+            "logo": "grocers",
+            "poster": "grocers",
+            "cover": "tomato"
+        },
+        "categories": [
+            "Breakfast",
+            "Fresh Products",
+            "Dairy & Chilled",
+            "Pickles & Chutneys"
+        ],
+        "latitude": "25.36379931522425",
+        "longitude": "68.38035771652643"
+    },
+    {
+        "id": "101",
+        "name": "Baig Mart",
+        "type": "In-store shopping",
+        "tags": [
+            "chicken",
+            "vegs",
+            "grilled",
+            "fries"
+        ],
+        "location": "Latifabad Unit 2, Hyderabad, Sindh",
+        "distance": 3900,
+        "time": 25,
+        "images": {
+            "logo": "baig",
+            "poster": "baig",
+            "cover": "chillipickle"
+        },
+        "categories": [
+            "Breakfast",
+            "Fresh Products",
+            "Dairy & Chilled",
+            "Pickles & Chutneys"
+        ],
+        "latitude": "25.37329673232272",
+        "longitude": "68.35072751859794"
+    },
+    {
+        "id": "102",
+        "name": "Dawood Super Mart",
+        "type": "In-store shopping",
+        "tags": [
+            "chicken",
+            "coffee",
+            "tea",
+            "drinks",
+            "chocolate",
+            "bread",
+            "Vegetables",
+            "fruits"
+        ],
+        "location": "99V8+4RP, Shahi Bazar, Hyderabad, Sindh 71000",
+        "distance": 6300,
+        "time": 35,
+        "images": {
+            "logo": "dawood",
+            "poster": "dawood",
+            "cover": "honey"
+        },
+        "categories": [
+            "Breakfast",
+            "Fresh Products",
+            "Dairy & Chilled",
+            "Pickles & Chutneys"
+        ],
+        "latitude": "25.392050928280874",
+        "longitude": "68.3675916872804"        
+    },
+    {
+        "id": "103",
+        "name": "Syed Brothers General Store",
+        "type": "In-store shopping · Delivery",
+        "tags": [
+            "Pizza",
+            "American Foods",
+            "Chicken",
+            "Meat"
+        ],
+        "location": "Latifabad Unit 7 Block C Latifabad, Hyderabad, Sindh 71000",
+        "distance": 5560,
+        "time": 31,
+        "images": {
+            "logo": "sbstore",
+            "poster": "sbrothers",
+            "cover": "olpers"
+        },
+        "categories": [
+            "Breakfast",
+            "Fresh Products",
+            "Dairy & Chilled",
+            "Pickles & Chutneys"
+        ],
+        "latitude": "25.370258809156294",
+        "longitude": "68.35849150956126"        
+    },
+    {
+        "id": "104",
+        "name": "National Super Market",
+        "type": "Take-Away",
+        "tags": [
+            "Icecream",
+            "American Foods",
+            "Desserts"
+        ],
+        "location": "15th Avenue, New york",
+        "distance": 3400,
+        "time": 21,
+        "images": {
+            "logo": "national",
+            "poster": "national",
+            "cover": "bittergourd"
+        },
+        "categories": [
+            "Breakfast",
+            "Fresh Products",
+            "Dairy & Chilled",
+            "Pickles & Chutneys"
+        ],
+        "latitude": "25.417423641386087",
+        "longitude": "68.37966828779528" 
+    },
+    {
+        "id": "105",
+        "name": "McDonalds",
+        "type": "Take-Away",
+        "tags": [
+            "burgers",
+            "chicken",
+            "coffee",
+            "tea",
+            "drinks",
+            "pizza",
+            "sesserts",
+            "chocolate",
+            "sundae",
+            "paneer",
+            "nuggets"
+        ],
+        "location": "13A Street, New york",
+        "distance": 5000,
+        "time": 30,
+        "images": {
+            "logo": "mcdonalds",
+            "poster": "mcdonalds",
+            "cover": "burgers"
+        },
+        "categories": [
+            "Burgers & Wraps",
+            "Snacks & sides",
+            "Desserts",
+            "Beverages"
+        ],
+        "latitude": "25.37838470314764",
+        "longitude": "68.3331134504436"
+    },
+    {
+        "id": "106",
+        "name": "Pizza Hut",
+        "type": "Dine-In",
+        "tags": ["Pizza", "American Foods", "Chicken", "Meat"],
+        "location": "15th Avenue, New york",
+        "distance": 5560,
+        "time": 31,
+        "images": {
+          "logo": "pizzahut",
+          "poster": "pizzahut",
+          "cover": "pizzahut"
+        },
+        "categories": ["Pizzas", "Sides", "Desserts", "Drinks"],
+        "latitude": "25.385262808445976",
+        "longitude": "68.35143019608111"
+    },
+    {
+        "id": "107",
+        "name": "KFC",
+        "type": "Dine-In",
+        "tags": [
+            "American Foods",
+            "Chicken"
+        ],
+        "location": "15th Avenue, New york",
+        "distance": 2600,
+        "time": 16,
+        "images": {
+            "logo": "kfc",
+            "poster": "kfc",
+            "cover": "kfc"
+        },
+        "categories": [
+            "Chicken",
+            "Burgers",
+            "Rice Bowls",
+            "Snacks",
+            "Beverages"
+        ],
+        "latitude": "25.387555765485214",
+        "longitude": "68.33702208700599"
+    }
+]

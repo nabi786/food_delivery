@@ -1,0 +1,650 @@
+[{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425a"
+  },
+  "id": "2000",
+  "restaurantId": "100",
+  "name": "Beat Root",
+  "price": 130,
+  "image": "beatroot",
+  "category": "Fresh Products",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425b"
+  },
+  "id": "2001",
+  "restaurantId": "100",
+  "name": "Tomato",
+  "price": 160,
+  "image": "tomato",
+  "category": "Fresh Products",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425c"
+  },
+  "id": "2002",
+  "restaurantId": "100",
+  "name": "Gourds",
+  "price": 220,
+  "image": "gourds",
+  "category": "Fresh Products",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425d"
+  },
+  "id": "2003",
+  "restaurantId": "100",
+  "name": "Garlic",
+  "price": 180,
+  "image": "garlic",
+  "category": "Fresh Products",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425e"
+  },
+  "id": "2004",
+  "restaurantId": "100",
+  "name": "Fresh Milk",
+  "price": 160,
+  "image": "freshmilk",
+  "category": "airy & Chilled",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c425f"
+  },
+  "id": "2005",
+  "restaurantId": "100",
+  "name": "Oat Meal",
+  "price": 160,
+  "image": "oatmeal",
+  "category": "Breakfast",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4260"
+  },
+  "id": "2006",
+  "restaurantId": "100",
+  "name": "Honey",
+  "price": 260,
+  "image": "honey",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4261"
+  },
+  "id": "2007",
+  "restaurantId": "100",
+  "name": "Capsicum",
+  "price": 80,
+  "image": "capsicum",
+  "category": "Pickles & Chutneys",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4262"
+  },
+  "id": "2008",
+  "restaurantId": "100",
+  "name": "Mixed Pickle",
+  "price": 100,
+  "image": "mixedpickle",
+  "category": "Pickles & Chutneys",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4263"
+  },
+  "id": "2009",
+  "restaurantId": "100",
+  "name": "Chilli Pickle",
+  "price": 150,
+  "image": "chillipickle",
+  "category": "Pickles & Chutneys",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula dictum est, ut pulvinar diam molestie nec."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4265"
+  },
+  "id": "2011",
+  "restaurantId": "101",
+  "name": "Honey",
+  "price": 160,
+  "image": "honey",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4266"
+  },
+  "id": "2012",
+  "restaurantId": "101",
+  "name": "Capsicum",
+  "price": 220,
+  "image": "capsicum",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4267"
+  },
+  "id": "2013",
+  "restaurantId": "101",
+  "name": "Tomato",
+  "price": 180,
+  "image": "tomato",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4269"
+  },
+  "id": "2015",
+  "restaurantId": "101",
+  "name": "Onion",
+  "price": 160,
+  "image": "onion",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426a"
+  },
+  "id": "2016",
+  "restaurantId": "101",
+  "name": "Olper's Milk",
+  "price": 260,
+  "image": "olpers",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426b"
+  },
+  "id": "2017",
+  "restaurantId": "101",
+  "name": "Peas",
+  "price": 80,
+  "image": "peas",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426c"
+  },
+  "id": "2018",
+  "restaurantId": "101",
+  "name": "Milk Pack",
+  "price": 100,
+  "image": "milkpack",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426d"
+  },
+  "id": "2019",
+  "restaurantId": "101",
+  "name": "Fresh Milk",
+  "price": 150,
+  "image": "freshmilk",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426e"
+  },
+  "id": "2020",
+  "restaurantId": "102",
+  "name": "Fresh Milk",
+  "price": 310,
+  "image": "freshmilk",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c426f"
+  },
+  "id": "2021",
+  "restaurantId": "102",
+  "name": "Olper's Milk",
+  "price": 180,
+  "image": "olpers",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4270"
+  },
+  "id": "2022",
+  "restaurantId": "102",
+  "name": "Bitter Gourd",
+  "price": 160,
+  "image": "bittergourd",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4271"
+  },
+  "id": "2023",
+  "restaurantId": "102",
+  "name": "Ginger",
+  "price": 170,
+  "image": "ginger",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4272"
+  },
+  "id": "2024",
+  "restaurantId": "102",
+  "name": "Garlic",
+  "price": 120,
+  "image": "garlic",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4273"
+  },
+  "id": "2025",
+  "restaurantId": "102",
+  "name": "Crushed Pickle",
+  "price": 140,
+  "image": "crushedpickle",
+  "category": "Pickles & Chutneys"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4274"
+  },
+  "id": "2026",
+  "restaurantId": "102",
+  "name": "Chilli Pickle",
+  "price": 180,
+  "image": "chillipickle",
+  "category": "Pickles & Chutneys"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4275"
+  },
+  "id": "2027",
+  "restaurantId": "102",
+  "name": "Mixed Pickle",
+  "price": 200,
+  "image": "mixedpickle",
+  "category": "Pickles & Chutneys"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4276"
+  },
+  "id": "2028",
+  "restaurantId": "102",
+  "name": "Oat Meal",
+  "price": 190,
+  "image": "oatmeal",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4277"
+  },
+  "id": "2029",
+  "restaurantId": "102",
+  "name": "Honey",
+  "price": 170,
+  "image": "honey",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427a"
+  },
+  "id": "2032",
+  "restaurantId": "103",
+  "name": "Oat Meal",
+  "price": 310,
+  "image": "oatmeal",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427b"
+  },
+  "id": "2033",
+  "restaurantId": "103",
+  "name": "Honey",
+  "price": 180,
+  "image": "honey",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427c"
+  },
+  "id": "2034",
+  "restaurantId": "103",
+  "name": "Peas",
+  "price": 160,
+  "image": "peas",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427d"
+  },
+  "id": "2035",
+  "restaurantId": "103",
+  "name": "Garlic",
+  "price": 170,
+  "image": "garlic",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427e"
+  },
+  "id": "2036",
+  "restaurantId": "103",
+  "name": "Onion",
+  "price": 120,
+  "image": "onion",
+  "category": "Fresh Products"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c427f"
+  },
+  "id": "2037",
+  "restaurantId": "103",
+  "name": "Crushed Pickle",
+  "price": 140,
+  "image": "crushedpickle",
+  "category": "Pickles & Chutneys"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4280"
+  },
+  "id": "2038",
+  "restaurantId": "103",
+  "name": "Chilli Pickle",
+  "price": 180,
+  "image": "chillipickle",
+  "category": "Pickles & Chutneys"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4281"
+  },
+  "id": "2039",
+  "restaurantId": "104",
+  "name": "Oat Meal",
+  "price": 200,
+  "image": "oatmeal",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4282"
+  },
+  "id": "2040",
+  "restaurantId": "104",
+  "name": "Honey",
+  "price": 190,
+  "image": "honey",
+  "category": "Breakfast"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4283"
+  },
+  "id": "2041",
+  "restaurantId": "104",
+  "name": "Milk Pack",
+  "price": 170,
+  "image": "milkpack",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4284"
+  },
+  "id": "2042",
+  "restaurantId": "104",
+  "name": "Olper's",
+  "price": 100,
+  "image": "olpers",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4285"
+  },
+  "id": "2043",
+  "restaurantId": "104",
+  "name": "Fresh Milk",
+  "price": 120,
+  "image": "freshmilk",
+  "category": "Dairy & Chilled"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4286"
+  },
+  "id": "2044",
+  "restaurantId": "105",
+  "name": "McSpicy Chicken",
+  "price": 220,
+  "image": "mcspicychicken",
+  "category": "Burgers & Wraps",
+  "description": "Zesty and redolent whole muscle leg meat patty: Fried to perfect golden tan; quenched with creamy veg mayo and garden-fresh shredded iceberg lettuce. The sandwich is served in fresh, sesame-studded quarter pounder bun.",
+  "ingredients": "Quarter pounder bun crown, Veg sauce, Shredded lettuce, McSpicy chicken patty, Quarter pounder bun heel."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4287"
+  },
+  "id": "2045",
+  "restaurantId": "105",
+  "name": "McSpicy Paneer",
+  "price": 210,
+  "image": "mcspicypaneer",
+  "category": "Burgers & Wraps",
+  "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+  "ingredients": "Quarter pounder bun crown, Shredded lettuce, Tandoori mayo, Spicy paneer patty, Quarter pounder bun heel."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4288"
+  },
+  "id": "2046",
+  "restaurantId": "105",
+  "name": "McChicken",
+  "price": 160,
+  "image": "mcchicken",
+  "category": "Burgers & Wraps",
+  "description": "Batter & breaded chicken patty containing green peas, carrots, green beans, onion, potatoes, rice and spices, served in a bun with eggless mayonnaise and lettuce.",
+  "ingredients": "Quarter bun crown, Veg mayonnaise, Shredded lettuce, McChicken patty, Quarter bun heel."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4289"
+  },
+  "id": "2047",
+  "restaurantId": "105",
+  "name": "Chicken Maharaja Mac",
+  "price": 250,
+  "image": "chickenmaharajamac",
+  "category": "Burgers & Wraps",
+  "description": "A double-decker toasted Maharaja bun sandwiched with one layer of flame-grilled chicken patty; crunchy iceberg lettuce; shredded onion; and a slice of cheese. Topped with another layer of flame-grilled chicken patty; tomato slices; and crunchy iceberg lettuce infused with harberno sauce.",
+  "ingredients": "Maharaja bun crown, Haberno sauce, Shredded lettuce, Shredded onion, Jalapenos, Flame-grilled chicken patty, Sliced cheese, Maharaja bun heel."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428a"
+  },
+  "id": "2048",
+  "restaurantId": "105",
+  "name": "Chicken McNuggets",
+  "price": 180,
+  "image": "chickenmcnuggets",
+  "category": "Snacks & sides",
+  "description": "Bite-sized pieces of breaded, boneless chicken formed in various shapes (Ball, Boot, Bell & Bone) fried and served hot with smoky Barbeque Sauce or Mustard Sauce.",
+  "ingredients": "Chicken bites."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428b"
+  },
+  "id": "2049",
+  "restaurantId": "105",
+  "name": "Pizza McPuff",
+  "price": 150,
+  "image": "pizzamcpuff",
+  "category": "Snacks & sides",
+  "description": "A blend of assorted vegetables (carrot, beans,capsicum, onion & green peas); mozzarella cheese mixed with tomato sauce; and exotic spices stuffed in rectangle shaped savoury dough. Quick frozen.",
+  "ingredients": "Assorted vegetables, Refined wheat flour, Pizza seasoning"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428c"
+  },
+  "id": "2050",
+  "restaurantId": "105",
+  "name": "Our World Famous Fries",
+  "price": 120,
+  "image": "ourworldfamousfries",
+  "category": "Snacks & sides",
+  "description": "The crisp, craveable, fan favourite: our World Famous Fries®. These epic fries are crispy and golden on the outside and fluffy on the inside.",
+  "ingredients": "Potato and salt"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428d"
+  },
+  "id": "2051",
+  "restaurantId": "105",
+  "name": "Sundae (Chocolate Brownie)",
+  "price": 130,
+  "image": "sundaechocolatebrownie",
+  "category": "Desserts",
+  "description": "An iconic premium dessert option. Can be bought as an add-on to make it a 'full meal' or simply as an indulgence.",
+  "ingredients": "Soft serve mix (100% diary), Hazelnut brownie, Hot fudge topping."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428e"
+  },
+  "id": "2052",
+  "restaurantId": "105",
+  "name": "McFlurry (Choco Crunch)",
+  "price": 160,
+  "image": "mcflurrychococrunch",
+  "category": "Desserts",
+  "description": "Milk-based frozen dessert with chocolate crispies and chocolate dip.",
+  "ingredients": "Milk fat, Chocolate."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c428f"
+  },
+  "id": "2053",
+  "restaurantId": "105",
+  "name": "McSwirl Chocolate",
+  "price": 170,
+  "image": "mcswirlchocolate",
+  "category": "Desserts",
+  "description": "Delightful soft-serve with a delectable chocolate topping.",
+  "ingredients": "Soft serve mix (100% diary product), Chocolate dip."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4290"
+  },
+  "id": "2054",
+  "restaurantId": "105",
+  "name": "Sundae (Strawberry)",
+  "price": 180,
+  "image": "sundaestrawberry",
+  "category": "Desserts",
+  "description": "Creamy vanilla soft-serve with strawberry topping.",
+  "ingredients": "Soft serve mix (100% diary), Strawberry topping."
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4291"
+  },
+  "id": "2055",
+  "restaurantId": "105",
+  "name": "Tea with Milk",
+  "price": 50,
+  "image": "teawithmilk",
+  "category": "Beverages",
+  "description": "It's always a good time for tea.",
+  "ingredients": ""
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4292"
+  },
+  "id": "2056",
+  "restaurantId": "105",
+  "name": "Iced Tea",
+  "price": 40,
+  "image": "icedtea",
+  "category": "Beverages",
+  "description": "A blend of aromatic tea and the fruity flavour of lemon.",
+  "ingredients": ""
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4293"
+  },
+  "id": "2057",
+  "restaurantId": "105",
+  "name": "Hot Coffee",
+  "price": 60,
+  "image": "hotcoffee",
+  "category": "Beverages",
+  "description": "Perfectly brewed for any time of the day.",
+  "ingredients": ""
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4294"
+  },
+  "id": "2058",
+  "restaurantId": "105",
+  "name": "Cold Coffee",
+  "price": 50,
+  "image": "coldcoffee",
+  "category": "Beverages",
+  "description": "Rich, creamy and indulgent cold coffee.",
+  "ingredients": ""
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4295"
+  },
+  "id": "2059",
+  "restaurantId": "106",
+  "name": "Veggie Supreme",
+  "price": 150,
+  "image": "veggiesupreme",
+  "category": "Pizzas",
+  "description": "",
+  "ingredients": "Black Olives, Green Capsicum, Mushroom, Onion, Red Paprika, Sweet Corn"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4296"
+  },
+  "id": "2060",
+  "restaurantId": "106",
+  "name": "Spiced Chicken Meatballs",
+  "price": 190,
+  "image": "spicedchickenmeatballs",
+  "category": "Pizzas",
+  "description": "",
+  "ingredients": "Schezwan Chicken Meatball, Onion"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4297"
+  },
+  "id": "2061",
+  "restaurantId": "106",
+  "name": "Italian Chicken Feast",
+  "price": 230,
+  "image": "italianchickenfeast",
+  "category": "Pizzas",
+  "description": "",
+  "ingredients": "Chicken Sausage, Chicken Pepperoni, Sweet Corn, Black Olive, Jalapeno"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4298"
+  },
+  "id": "2062",
+  "restaurantId": "106",
+  "name": "Zesty Chicken Pocket",
+  "price": 180,
+  "image": "zestychickenpocket",
+  "category": "Sides",
+  "description": "",
+  "ingredients": "Freshly Baked Pocket Stuffed With Chicken, Veggies & Smoked Texas Garlic Sauce"
+},{
+  "_id": {
+    "$oid": "63bbaaa377f47f660f7c4299"
+  },
+  "id": "2063",
+  "restaurantId": "106",
+  "name": "Spiced Tomato Twist Non Veg",
+  "price": 190,
+  "image": "spicedtomatotwistnonveg",
+  "category": "Sides",
+  "description": "",
+  "ingredients": "Tangy Flavourful Red Sauce Pasta Infused With Heavenly Herbs & Spices Topped With Chicken Sausage"
+}]

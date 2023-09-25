@@ -2,14 +2,14 @@
   "name": "food-delivery-server",
   "version": "0.0.0",
   "private": true,
+  "main" : "app.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node app.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
     "clarifai-nodejs-grpc": "^8.0.0",
     "cookie-parser": "~1.4.4",
-    "cors": "^2.8.5",
     "debug": "~2.6.9",
     "dotenv": "^16.0.3",
     "express": "~4.16.1",
@@ -22,7 +22,7 @@
     "nodemon": "^2.0.20"
   },
   "projectConfig": {
-    "mongoConnectionUrl": "mongodb+srv://rehanpardesi2018:rehanpardesi2018@cluster0.mm70gdo.mongodb.net/?retryWrites=true&w=majority",
+    "mongoConnectionUrl": "mongodb://127.0.0.1:27017",
     "serverIp": "192.168.43.105",
     "serverPort": 3000
   }

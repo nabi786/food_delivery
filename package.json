@@ -21,7 +21,7 @@
     "nodemon": "^2.0.20"
   },
   "projectConfig": {
-    "mongoConnectionUrl": "mongodb://127.0.0.1:27017",
+    "mongoConnectionUrl": "mongodb+srv://rehanpardesi2018:rehanpardesi2018@cluster0.mm70gdo.mongodb.net/?retryWrites=true&w=majority",
     "serverIp": "192.168.43.105",
     "serverPort": 3000
   }

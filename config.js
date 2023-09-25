@@ -4,7 +4,7 @@ module.exports = {
   mongoConfig: {
     // connectionUrl: "mongodb://localhost:27017/",
     // connectionUrl: config.mongoConnectionUrl,
-    connectionUrl: 'mongodb+srv://rehanpardesi2018:LYLpD90dHzvzY0LY@cluster0.owcexkb.mongodb.net/?retryWrites=true&w=majority',
+    connectionUrl: 'mongodb+srv://rehanpardesi2018:rehanpardesi2018@cluster0.mm70gdo.mongodb.net/?retryWrites=true&w=majority',
     database: "foodelivery_db",
     collections: {
       USERS: "users",
